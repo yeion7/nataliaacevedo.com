@@ -13,15 +13,15 @@ description: >-
 
 De forma amplia un community manager es el encargado de gestionar las redes sociales, **pero su función va mucho mas allá de esto, esta persona se encarga de crear una comunidad alrededor del valor que ofrece su negocio,** compartiendo información importante, creando contenido adecuado y dandole una voz a su marca. Tiene la gran responsabilidad de conectar con el publico.
 
-Un Community Manager es la persona responsable de crear, gestionar, crecer y fidelizar las audiencias en las diferentes redes sociales en las que una empresa o marca haga presencia es decir** el community Manager será el responsable tanto de las acciones estratégicas como de las tácticas.** 
+Un Community Manager es la persona responsable de crear, gestionar, crecer y fidelizar las audiencias en las diferentes redes sociales en las que una empresa o marca haga presencia es decir **el community Manager será el responsable tanto de las acciones estratégicas como de las tácticas.**
 
-![](/img/chic-salmon-dish-facebook-ad.png)
+![null](/img/chic-salmon-dish-facebook-ad.png)
 
 ## **Pero ¿Que hace un community manager?**
 
 Es importante tener claro las funciones que debe cumplir un community, tanto si eres la empresa que esta contratando o el empleado que esta siendo contratado 
 
-* **Creación de contenido:**Y ojo con esto, un community manager no es un diseñador gráfico ( a no ser que este siendo contratado para las dos funciones) así que la creación de contenido se refiere a s**er la mente creativa y la voz de la marca, tener las ideas claras de que le gusta a tu público **y como llegar a el de forma adecuada, aquí van incluidos aspectos como colores, tipografía, la voz que se transmite, etc. 
+* **Creación de contenido:**Y ojo con esto, un community manager no es un diseñador gráfico (a no ser que este siendo contratado para las dos funciones) así que la creación de contenido se refiere a s**er la mente creativa y la voz de la marca, tener las ideas claras de que le gusta a tu público **y como llegar a el de forma adecuada, aquí van incluidos aspectos como colores, tipografía, la voz que se transmite, etc. 
 * **Gestión de contenido en las diferentes redes sociales:**Un community va ser **el encargado de mantener las redes sociales actualizadas y con contenido constante,** se encargará de programar las publicaciones diarias, semanas, mensuales (según sus objetivos) 
 * **Comunicación:** Otra de las funciones mas importantes es la de la comunicación con la comunidad, **se encargará de responder comentarios y mensajes **(según la voz de la marca) 
 * **Programar:** Un community manager tendrá como función **organizar y programar contendido según los objetivos que se quieran cumplir.** Por ejemplo van a lanzar un evento en dos meses cuyo objetivo es vender mas de 100 entradas, el community se encargara de crear una estrategia para cumplir el objetivo propuesto, como concursos para ganar entradas, contenido semanal relacionado con el evento, etc. 
