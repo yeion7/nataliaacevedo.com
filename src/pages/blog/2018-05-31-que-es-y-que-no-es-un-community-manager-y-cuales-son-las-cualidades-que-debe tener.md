@@ -13,7 +13,13 @@ description: >-
 
 De forma amplia un community manager es el encargado de gestionar las redes sociales,** pero su función va mucho mas allá de esto, esta persona se encarga de crear una comunidad alrededor del valor que ofrece su negocio,** compartiendo información importante, creando contenido adecuado y dandole una voz a su marca. Tiene la gran responsabilidad de conectar con el publico.
 
-Un Community Manager es la persona responsable de crear, gestionar, crecer y fidelizar las audiencias en las diferentes redes sociales en las que una empresa o marca haga presencia es decir** el community Manager será el responsable tanto de las acciones estratégicas como de las tácticas.** 
+Un Community Manager es la persona responsable de crear, gestionar, crecer y fidelizar las audiencias en las diferentes redes sociales en las que una empresa o marca haga prese
+
+![](/img/chic-salmon-dish-facebook-ad.png)
+
+ncia es decir** el community Manager será el responsable tanto de las acciones estratégicas como de las tácticas.** 
+
+
 
 ## **Pero ¿Que hace un community manager?**
 
@@ -31,8 +37,6 @@ Aquí me gustaría aclarar algunos puntos que me fueron de gran ayuda cuando est
 * Programa, programa todo con mucho tiempo de anticipación, deja fechas limites, **haz todo con tiempo.**
 * Objetivizar: Es importante que cada cosa que hagas tenga un objetivo, asi sabrás que estas midiendo y a donde quieres llegar
 
-
-
 ## ¿Que no es un community manager?
 
 * **Un diseñador:** Un community no tiene que ser un diseñador profesional ( a no ser que este contratado y pagado para esta función) no quiere decir que no tenga que crear contenido, **pero no tiene que hacerlo de forma profesional y espectacular **
@@ -43,7 +47,7 @@ Si necesitamos en nuestro equipo de trabajo una persona que cumpla varias funcio
 
 ## Cualidades que debe tener un community manager: 
 
-![](/img/1_arfdijcswzfhaqxgtzqqbw.png)
+![Cualidades de un community manger](/img/1_arfdijcswzfhaqxgtzqqbw.png)
 
 * **Organizado:** Un community manager debe estar pendiente de las conversaciones en las redes sociales, análisis, contenidos, respuestas, calendarios, herramientas de gestión, etc. Así que ser una persona organizadas hará las cosas mas fáciles y eficientes
 * **Creativo: **Un community manager tiene una imaginación envidiable, y debe tener el potencial para explotar sus ideas y comunicarlas de forma correcta al público
@@ -63,8 +67,6 @@ Si necesitamos en nuestro equipo de trabajo una persona que cumpla varias funcio
 * Dar un alto valor al contenido publicado por la marca
 * Establecer relaciones fuertes con clientes, que se vuelvan clientes recurrentes y satisfechos
 * Mantener actualizadas todas las redes sociales con contenido
-
-
 
 ## Funciones de un community manager:
 
