@@ -36,7 +36,11 @@ Aquí me gustaría aclarar algunos puntos que me fueron de gran ayuda cuando est
 ## ¿Que no es un community manager?
 
 * **Un diseñador:** Un community no tiene que ser un diseñador profesional ( a no ser que este contratado y pagado para esta función) no quiere decir que no tenga que crear contenido, **pero no tiene que hacerlo de forma profesional y espectacular **
+
+
 * **No es un profesional analítico: **No debe cumplir funciones como manejo de publicidades pagas ( facebook ads, SEM, etc) entrega de métricas avanzadas, nada de esto hace parte de su trabajo aunque algunas empresas contratan con estas funciones
+
+
 * **No es el que cumple TODAS las funciones de la empresa:** Me encontrado con miles de casos en donde el community manager, es el publicista, diseñador, analítico web, creador de embudos, plataformas, paginas webs, etc. **Esto no es positivo, ya que tener trabajando a alguien en miles de cosas a la vez hace que su productividad y creatividad se vean afectadas y no cumpla sus funciones de forma adecuada**
 
 Si necesitamos en nuestro equipo de trabajo una persona que cumpla varias funciones, es necesario tener una organización adecuada y un sueldo justo para hacer que todos los objetivos sean cumplidos de forma correcta 
