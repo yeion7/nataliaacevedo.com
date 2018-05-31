@@ -17,7 +17,7 @@ Un Community Manager es la persona responsable de crear, gestionar, crecer y fid
 
 ![null](/img/chic-salmon-dish-facebook-ad.png)
 
-## **Pero ¿Que hace un community manager?**
+## **Pero ¿Qué hace un community manager?**
 
 Es importante tener claro las funciones que debe cumplir un community, tanto si eres la empresa que esta contratando o el empleado que esta siendo contratado 
 
@@ -33,7 +33,7 @@ Aquí me gustaría aclarar algunos puntos que me fueron de gran ayuda cuando est
 * Programa, programa todo con mucho tiempo de anticipación, deja fechas limites, **haz todo con tiempo.**
 * Objetivizar: Es importante que cada cosa que hagas tenga un objetivo, asi sabrás que estas midiendo y a donde quieres llegar
 
-## ¿Que no es un community manager?
+## ¿Qué no es un community manager?
 
 * **Un diseñador:** Un community no tiene que ser un diseñador profesional ( a no ser que este contratado y pagado para esta función) no quiere decir que no tenga que crear contenido, **pero no tiene que hacerlo de forma profesional y espectacular **
 * **No es un profesional analítico: **No debe cumplir funciones como manejo de publicidades pagas ( facebook ads, SEM, etc) entrega de métricas avanzadas, nada de esto hace parte de su trabajo aunque algunas empresas contratan con estas funciones
