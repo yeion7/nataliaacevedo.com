@@ -96,6 +96,6 @@ Toda esta información va enfocada a una de las estrategias de marketing con mej
 ## 
 Algunos consejos para aplicar mejor la estrategia:
 
-* Dirige la entrega de anuncios en torno al embudo de ventas: Los públicos personalizados ayudan a realizar una estrategia en donde nuestro público objetivo, es un cliente interesado, esto ayuda claramente al embudo de ventas ya que es una forma de crear una relación continua con nuestros futuros compradores ( si no sabes cómo construir un embudo de ventas efectivo, aquí, te enseño como ) 
+* Dirige la entrega de anuncios en torno al embudo de ventas: Los públicos personalizados ayudan a realizar una estrategia en donde nuestro público objetivo, es un cliente interesado, esto ayuda claramente al embudo de ventas ya que es una forma de crear una relación continua con nuestros futuros compradores (si no sabes cómo construir un embudo de ventas efectivo, aquí, te enseño como) 
 * Excluye a los clientes actuales de las campañas de captación: Puedes excluir a los clientes actuales para asegurarte de dirigir tu mensaje al objetivo previsto y usar tu presupuesto de manera eficaz.
   Complementa las campañas existentes: Utiliza los archivos de datos o correos para llegar a publicos mas concretos.
