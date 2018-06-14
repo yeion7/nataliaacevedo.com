@@ -40,10 +40,10 @@ Marc Gobé explica en 10 mandamientos una nueva perspectiva de relacionarnos con
 
 ## Los pilares del marketing emocional:
 
-* **El vinculo entre la marca y el consumidor: **Un objetivo fundamental que debe estar si o si en nuestra estrategia de marketing digital. 
+* **El vinculo entre la marca y el consumidor:**Un objetivo fundamental que debe estar si o si en nuestra estrategia de marketing digital. 
 * **La experiencia del usuario:** La estrategia debe estar objetivada hacia la experiencia y emociones que se puedan generar en el usuarios
 * **Lovemarks:** Es algo así como el proceso de enamorar a alguien y hacer que se vuelva loco por nosotros. Los clientes consumen el producto o servicio mas allá de la razón. Un ejemplo claro es Coca-cola, no es una marca que la gente consuma por razón ( o no la consumirían) simplemente destapan la felicidad en cada botella. 
-* **Marketing de contenidos: **Es una de mis partes favoritas del marketing, es la forma de enamorar a tu audiencia de muchas formas. Definitivamente una parte esencial en la estrategia de marketing.
+* **Marketing de contenidos:**Es una de mis partes favoritas del marketing, es la forma de enamorar a tu audiencia de muchas formas. Definitivamente una parte esencial en la estrategia de marketing.
 
 
 
