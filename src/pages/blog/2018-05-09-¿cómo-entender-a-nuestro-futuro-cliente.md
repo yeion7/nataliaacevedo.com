@@ -1,7 +1,7 @@
 ---
 templateKey: blog
 path: como-entender-a-nuestro-futuro-cliente
-imagen: /img/jacob-morch-270688-unsplash.jpg
+imagen: /img/0_xqymmnyk6-pwexh9.png
 title: ¿Cómo entender a nuestro futuro cliente?
 date: '2018-05-09T19:20:18-05:00'
 description: >-
@@ -22,7 +22,7 @@ Cuando tenemos un proyecto en mente, las posibilidades son infinitas, y nos enfr
 
 Vamos a entender cual es la segmentación correcta para empezar a entender nuestro cliente:
 
-![Imagen usuario con celular](/img/jacob-morch-270688-unsplash.jpg)
+![Imagen usuario con celular](/img/0_xqymmnyk6-pwexh9.png)
 
 **Comportamiento:** Aquí vamos a verificar cuánto conocen de tu producto, cómo actuarían hacia él, cómo lo usarían, su lealtad y amor hacia el producto y una de las partes más importantes ¿tu producto va a crear un beneficio a tu cliente?
 
