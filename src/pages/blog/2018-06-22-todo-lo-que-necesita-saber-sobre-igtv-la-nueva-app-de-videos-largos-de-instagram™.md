@@ -21,7 +21,7 @@ Ahora se podrán subir videos con duración máxima de 1 hora, recuerda que ante
 * Otra novedad es estos vídeos pueden ser descargados
 * Aunque esta optimizado para móvil, también tendrá una versión web para poder disfrutar de todo el contenido desde nuestros computadores
 
-![null](/img/event-2-.png)
+![infografia](/img/event-2-.png)
 
 ## ¿Cómo usarla? 
 
