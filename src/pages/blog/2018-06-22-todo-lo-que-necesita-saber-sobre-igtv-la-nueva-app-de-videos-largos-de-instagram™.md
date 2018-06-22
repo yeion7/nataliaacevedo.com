@@ -1,9 +1,9 @@
 ---
 templateKey: blog
 path: IGTV-todo-lo-que-necesitas-saber
-imagen: /img/event-2-.png
+imagen: /img/jacob-morch-270688-unsplash.jpg
 title: >-
-  Todo lo que necesita saber sobre IGTV, la nueva app de videos largos de
+  Todo lo que necesitas saber sobre IGTV, la nueva app de videos largos de
   Instagram™
 date: '2018-06-20T15:41:42-05:00'
 description: >-
