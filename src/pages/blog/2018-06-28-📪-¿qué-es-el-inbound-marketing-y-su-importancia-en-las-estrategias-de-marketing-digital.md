@@ -9,7 +9,7 @@ description: >-
   adecuado, en el momento adecuado, aquí te enseño las estrategias básicas para
   aplicarlo en tu emprendimiento o negocio
 ---
-Estamos en una era donde el contenido y los productos no se encuentra más en las manos de las marcas o empresas, queremos se parte del proceso de compra y definir el contenido que queremos ver y el que no. El inbound marketing es una estrategia que busca atraer y fidelizar clientes a través de contenido útil y de valor en cada una de las etapas de embudo de venta, los clientes potenciales encuentran de nuestro producto o servicio la respuesta a sus preguntas y termina con un proceso de compra y promoción exitoso.
+Estamos en una era donde el contenido y los productos no se encuentran más en las manos de las marcas o empresas, queremos se parte del proceso de compra y definir el contenido que queremos ver y el que no. El inbound marketing es una estrategia que busca atraer y fidelizar clientes a través de contenido útil y de valor en cada una de las etapas de embudo de venta, los clientes potenciales encuentran de nuestro producto o servicio la respuesta a sus preguntas y termina con un proceso de compra y promoción exitoso.
 
 ## ¿Porqué no seguir con el marketing tradicional?
 
