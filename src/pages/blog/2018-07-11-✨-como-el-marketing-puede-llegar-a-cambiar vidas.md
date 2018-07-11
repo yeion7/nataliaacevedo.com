@@ -12,7 +12,7 @@ description: >-
 
 Este tal vez será el post más personal que escriba en este blog, me causa un poco de nervios (nunca he escrito algo que no sea técnico) pero hoy alguien quien anhela estar en este mundo me pregunto sobre el sentido que le damos a ciertas cosas a través de lo que hacemos con nuestras vidas, entonces **¿Tiene sentido hacer marketing?**
 
-Yo me considero una persona con una vocación de servicio inmensa, incluso… quería ser medico y salvar vidas, soy fiel al pensamiento de que no debemos pasar por este mundo solo existiendo si no haciendo mas, ayudando, logrando cambios y haciendo este mundo un poquito mejor.\*\*
+Yo me considero una persona con una vocación de servicio inmensa, incluso… quería ser medico y salvar vidas, soy fiel al pensamiento de que no debemos pasar por este mundo solo existiendo** si no haciendo mas, ayudando, logrando cambios y haciendo este mundo un poquito mejor**
 
 Al principio cuando conocí el marketing y me empece a involucrar en el, tengo que ser sincera que no le hallaba demasiado el sentido,**es mas creía que era algo mecánico que aprendías a hacer y a ejecutar de una forma correcta hasta tener buenos resultados** (lo se, no tenia el mejor concepto) pero hoy todo eso cambio gracias a muchas cosas.
 
