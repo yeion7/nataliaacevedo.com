@@ -28,7 +28,6 @@ class HTML extends React.Component {
             href="//fonts.googleapis.com/css?family=Arvo:700|Cabin:400,400i,700"
             as="style"
           />
-          <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta
             name="viewport"
