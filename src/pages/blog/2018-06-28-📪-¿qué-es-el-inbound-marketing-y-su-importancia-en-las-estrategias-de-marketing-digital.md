@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: inbound-marketing
+path: 'inbound-marketing'
 imagen: /img/1_g5iab85cl-a54jtxrlmdoa.png
 title: "\U0001F4EA ¿Qué es el INBOUND marketing? Y su importancia en las estrategias de marketing digital "
 date: '2018-06-28T10:27:33-05:00'

@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: cómo-construir-un-embudo-de-ventas-efectivo
+path: 'como-construir-un-embudo-de-ventas-efectivo'
 imagen: /img/0_f7bcw5qefp5m6ryk.jpeg
 title: ¿Cómo construir un embudo de ventas efectivo?
 date: '2018-05-01T13:20:57-05:00'

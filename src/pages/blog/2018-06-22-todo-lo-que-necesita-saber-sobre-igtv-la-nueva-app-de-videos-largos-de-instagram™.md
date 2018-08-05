@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: "\U0001F48C IGTV-todo-lo-que-necesitas-saber"
+path: "IGTV-todo-lo-que-necesitas-saber"
 imagen: /img/chic-salmon-dish-facebook-ad-9-.png
 title: >-
   Todo lo que necesitas saber sobre IGTV, la nueva app de videos largos de

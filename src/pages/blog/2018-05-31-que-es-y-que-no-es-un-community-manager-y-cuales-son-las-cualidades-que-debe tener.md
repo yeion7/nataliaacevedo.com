@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: que-es-y-que-no-es-un-community-manager-y-cualidades-que-debe-tener
+path: 'que-es-y-que-no-es-un-community-manager-y-cualidades-que-debe-tener'
 imagen: /img/chic-salmon-dish-facebook-ad.png
 title: "¿Qué es y que no es un community manager? Y ¿Cuáles son las cualidades que debe\_tener? "
 date: '2018-05-31T11:01:23-05:00'

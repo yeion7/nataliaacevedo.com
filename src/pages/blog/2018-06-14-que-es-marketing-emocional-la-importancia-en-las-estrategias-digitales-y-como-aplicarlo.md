@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: 'estrategias-marketing-emocional '
+path: 'estrategias-marketing-emocional'
 imagen: /img/1_254tmox2-2dnv-uajg2pga.png
 title: "\U0001F49C Que es marketing emocional, la importancia en las estrategias digitales y como aplicarlo."
 date: '2018-06-14T13:59:13-05:00'

@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: te-has-preguntado-porque-algunas-veces-facebook-no-aprueba-tus-ads
+path: 'te-has-preguntado-porque-algunas-veces-facebook-no-aprueba-tus-ads'
 imagen: /img/img.png
 title: >-
   ¿Te has preguntado porque algunas veces facebook no aprueba tus ads? Te cuento

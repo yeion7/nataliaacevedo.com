@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: las-5-ps-de-marketing
+path: 'las-5-ps-de-marketing'
 imagen: /img/1_iqqgzbmc_o287qxakvftww.jpeg
 title: Las 5 p’s de Marketing
 date: '2018-03-14T13:28:23-05:00'

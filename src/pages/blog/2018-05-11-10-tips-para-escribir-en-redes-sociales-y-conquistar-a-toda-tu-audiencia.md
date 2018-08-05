@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: 10-tips-para-escribir-en-redes-sociales-y-conquistar-a-tu-audiencia
+path: '10-tips-para-escribir-en-redes-sociales-y-conquistar-a-tu-audiencia'
 imagen: /img/1_ra5pii9cqpd73ower295dw.png
 title: 10 Tips para escribir en redes sociales y conquistar a toda tu audiencia
 date: '2018-05-11T17:32:00-05:00'

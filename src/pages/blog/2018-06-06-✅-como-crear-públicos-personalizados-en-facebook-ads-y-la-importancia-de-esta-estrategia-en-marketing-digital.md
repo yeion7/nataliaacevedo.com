@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: publicos-personalizados-facebook-ads
+path: 'publicos-personalizados-facebook-ads'
 imagen: /img/william-iven-19844-unsplash.jpg
 title: >-
   ✅ Como crear públicos personalizados en facebook ads y la importancia de esta

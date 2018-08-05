@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: el-sentido-del-marketing
+path: 'el-sentido-del-marketing'
 imagen: /img/chic-salmon-dish-facebook-ad-10-_opt.png
 title: "✨ Como el marketing puede llegar a cambiar\_vidas "
 date: '2018-07-11T13:00:40-05:00'

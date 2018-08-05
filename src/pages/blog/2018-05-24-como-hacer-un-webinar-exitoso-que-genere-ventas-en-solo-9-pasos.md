@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: como-hacer-un-webinar-exitoso-que-genere-ventas-en-solo-9-pasos-
+path: 'como-hacer-un-webinar-exitoso-que-genere-ventas-en-solo-9-pasos'
 imagen: /img/chic-salmon-dish-facebook-ad-29-.png
 title: Como hacer un webinar exitoso que genere ventas en solo 9 pasos
 date: '2018-05-24T11:10:06-05:00'

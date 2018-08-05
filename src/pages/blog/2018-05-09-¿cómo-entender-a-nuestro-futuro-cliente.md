@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: como-entender-a-nuestro-futuro-cliente
+path: 'como-entender-a-nuestro-futuro-cliente'
 imagen: /img/0_xqymmnyk6-pwexh9.png
 title: ¿Cómo entender a nuestro futuro cliente?
 date: '2018-05-09T19:20:18-05:00'
