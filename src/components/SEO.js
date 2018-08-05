@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 
-const SEO = ({ title, description, image, url, isPost }) => {
+const SEO = ({ title, description, image, url, isPost, date }) => {
   const schemaOrgJSONLD = []
 
   if (!isPost) {
