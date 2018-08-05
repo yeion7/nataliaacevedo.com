@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-path: 'SEO-y-estrategia-de-emojis '
+path: 'SEO-y-estrategia-de-emojis'
 imagen: /img/chic-salmon-dish-facebook-ad-11-.png
 title: "❤️ Los emojis y el posicionamiento en\_SEO"
 date: '2018-07-25T12:30:51-05:00'
