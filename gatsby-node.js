@@ -42,7 +42,7 @@ exports.createPages = ({ graphql, actions }) => {
           const next = index === 0 ? null : posts[index - 1].node
 
           createPage({
-            path: post.node.frontmatter.path.trim(),
+            path: _.kebabCase(post.node.frontmatter.path),
             component: blogPost,
             context: {
               slug: post.node.frontmatter.path,
