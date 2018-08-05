@@ -16,13 +16,12 @@ const SEO = ({ title, description, image, url, isPost, date }) => {
       {
         "@context": "http://schema.org",
         "@type": "Person",
-        "name": "Yeison Daza",
-        "url": "https://yeisondaza.com/",
+        "name": "Natalia Acevedo",
+        "url": "https://nataliaacevedo.com/",
         "sameAs": [
-          "https://www.facebook.com/yeison7",
-          "https://instagram.com/yeion7",
-          "https://www.linkedin.com/in/yeion7",
-          "https://twitter.com/yeion7"
+          "https://www.facebook.com/NataliaAcevedoMKT/",
+          "https://www.linkedin.com/in/natalia-benitez-0b5784153/",
+          "https://twitter.com/Nataliacevedo16/"
         ]
       }
     )
@@ -50,7 +49,7 @@ const SEO = ({ title, description, image, url, isPost, date }) => {
         "@type": "NewsArticle",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://yeisondaza.com/"
+          "@id": "https://nataliaacevedo.com/"
         },
         "headline": title,
         "image": [
@@ -64,10 +63,10 @@ const SEO = ({ title, description, image, url, isPost, date }) => {
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Yeison Daza",
+          "name": "Natalia Acevedo",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://yeisondaza.com/favicon-196x196.png"
+            "url": "https://nataliaacevedo.com/favicon-196x196.png"
           }
         },
         "description": description
