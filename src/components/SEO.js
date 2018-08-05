@@ -2,17 +2,34 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 const SEO = ({ title, description, image, url, isPost }) => {
-  const schemaOrgJSONLD = [
-    {
-      '@context': 'http://schema.org',
-      '@type': 'WebSite',
-      url: url,
-      name: title,
-      alternateName: description,
-    },
-  ]
+  const schemaOrgJSONLD = []
+
+  if (!isPost) {
+    schemaOrgJSONLD.push(
+      {
+        '@context': 'http://schema.org',
+        '@type': 'WebSite',
+        url: url,
+        name: title,
+        alternateName: description,
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Yeison Daza",
+        "url": "https://yeisondaza.com/",
+        "sameAs": [
+          "https://www.facebook.com/yeison7",
+          "https://instagram.com/yeion7",
+          "https://www.linkedin.com/in/yeion7",
+          "https://twitter.com/yeion7"
+        ]
+      }
+    )
+  }
+
   if (isPost) {
-    schemaOrgJSONLD.push([
+    schemaOrgJSONLD.push(
       {
         '@context': 'http://schema.org',
         '@type': 'BreadcrumbList',
@@ -29,19 +46,33 @@ const SEO = ({ title, description, image, url, isPost }) => {
         ],
       },
       {
-        '@context': 'http://schema.org',
-        '@type': 'BlogPosting',
-        url: url,
-        name: title,
-        alternateName: `Natalia Acevedo | ${url}`,
-        headline: title,
-        image: {
-          '@type': 'ImageObject',
-          url: image,
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://yeisondaza.com/"
         },
-        description,
-      },
-    ])
+        "headline": title,
+        "image": [
+          image
+        ],
+        "datePublished": date,
+        "dateModified": date,
+        "author": {
+          "@type": "Person",
+          "name": "Yeisonn Daza"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Yeison Daza",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://yeisondaza.com/favicon-196x196.png"
+          }
+        },
+        "description": description
+      }
+    )
   }
 
   return (
@@ -55,13 +86,12 @@ const SEO = ({ title, description, image, url, isPost }) => {
         {JSON.stringify(schemaOrgJSONLD)}
       </script>
 
-      {/* support webp */}
-      {/* <script type="text/javascript" src="https://unpkg.com/webpjs@0.0.2/webpjs.min.js" async></script> */}
-
-      {/* Facebook Card tags */}
+      {
+        isPost && <link rel="amphtml" href={url.replace('.com/', ".com/amp/")} />
+      }
 
       <meta property="og:url" content={url} />
-      {isPost && <meta property="og:type" content="article" />}
+      <meta property="og:type" content={isPost ? "article" : "website"} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />

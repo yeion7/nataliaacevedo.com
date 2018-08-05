@@ -1,6 +1,5 @@
 import React from 'react'
-import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
+import { Link, graphql } from "gatsby"
 import get from 'lodash/get'
 import head from 'lodash/head'
 import last from 'lodash/last'
@@ -8,10 +7,12 @@ import split from 'lodash/split'
 import getObj from "ast-get-object";
 
 import SEO from '../components/SEO'
-import { rhythm, scale } from '../utils/typography'
+import typografy from '../utils/typography'
 import Content, { HTMLContent } from '../components/Content'
 
 import Background from '../assets/background.jpg'
+
+const { rhythm, scale } = typografy
 
 export const Post = ({
   content,
@@ -91,7 +92,7 @@ export default class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteMetadata = get(this.props, 'data.site.siteMetadata')
-    const { previous, next } = this.props.pathContext
+    const { previous, next } = this.props.pageContext
     const ast = post.htmlAst
     const images = getObj(ast, {"type": "element", "tagName": "img"})
 

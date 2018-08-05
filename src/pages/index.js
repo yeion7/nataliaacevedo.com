@@ -1,10 +1,8 @@
 import React from 'react'
-import Link from 'gatsby-link'
 import Img from 'gatsby-image'
 import get from 'lodash/get'
-
+import { graphql, Link } from 'gatsby'
 import SEO from '../components/SEO'
-import { rhythm } from '../utils/typography'
 
 import VisibilitySensor from 'react-visibility-sensor'
 import Natalia from '../assets/natalia.jpg'
