@@ -4,7 +4,6 @@ import get from 'lodash/get'
 import { graphql, Link } from 'gatsby'
 import SEO from '../components/SEO'
 
-import VisibilitySensor from 'react-visibility-sensor'
 import Natalia from '../assets/natalia.jpg'
 
 import '../css/index.scss'
@@ -89,14 +88,12 @@ class BlogIndex extends React.Component {
                   className="card-image-link no-link"
                   aria-label={title}
                 >
-                <VisibilitySensor>
                   <Img
                     resolutions={
                       node.fields.thumbnail.childImageSharp.resolutions
                     }
                     className="card-image "
                   />
-                </VisibilitySensor>
                 </Link>
                 <div className="card-content">
                   <Link

@@ -43,7 +43,6 @@
     "react-dom": "16.5.2",
     "react-helmet": "5.2.0",
     "react-typography": "0.16.13",
-    "react-visibility-sensor": "5.0.1",
     "recursive-readdir": "2.2.2",
     "typography": "0.16.17",
     "typography-theme-doelger": "0.15.11"
