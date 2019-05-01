@@ -56,15 +56,20 @@
   flex: 1 1 300px;
   flex-direction: column;
   min-height: 300px;
-  max-width: 260px;
+  max-width: 310px;
   overflow: hidden;
-  margin: 0 20px 40px;
+  margin: 10px auto;
   background: #fff 50%;
   background-size: cover;
   border-radius: 5px;
   box-shadow: 8px 14px 38px rgba(39, 44, 49, 0.06),
     1px 3px 8px rgba(39, 44, 49, 0.03);
   transition: all 0.5s ease;
+
+  @media (min-width: 720px) {
+    max-width: 340px;
+    margin: 0 20px 40px;
+  }
 
   @media (min-width: 1333px) {
     max-width: 360px;
