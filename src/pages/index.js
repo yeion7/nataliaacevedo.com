@@ -130,7 +130,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    background: file(relativePath: { regex: "/background.jpg/" }) {
+    background: file(relativePath: { regex: "/banner.png/" }) {
       childImageSharp {
         sizes(quality: 100) {
           ...GatsbyImageSharpSizes_withWebp
